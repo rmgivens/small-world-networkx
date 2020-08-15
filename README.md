@@ -15,7 +15,7 @@ Tests of most methods and examples of using the methods can be found in networkT
 
 ## Visualizing Networks
 
-The file createVisual.py demonstrates how to use Networks to draw their person-to-group and person-to-person networks with [Matplotlib](https://matplotlib.org/) (also requires installation). 
+The file createVisual.py demonstrates how to use Networks to draw their person-to-group and person-to-person networks with [Matplotlib](https://matplotlib.org/) (also requires installation) using the Fruchterman–Reingold layout. 
 
 Person-to-group example from example files (persons are circles, groups are squares, each of which are organized by 'type').
 
