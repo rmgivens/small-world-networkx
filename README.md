@@ -9,9 +9,9 @@ Network (network.py) is a data structure for small-world person-to-group network
 
 Requires installation of [NetworkX](https://pypi.org/project/networkx/) and [NumPy](https://numpy.org/).
 
-## Examples
+## Tester and Examples
 
-Tests of most methods and examples of using the methods can be found in networkTester.py (uses the example files file1.csv, file2.csv, file3.csv).
+Tests of most methods and examples of using the methods can be found in networkTester.py (uses the example files test1.csv, test2.csv, test3.csv).
 
 ## Visualizing Networks
 
@@ -19,8 +19,8 @@ The file createVisual.py demonstrates how to use Networks to draw their person-t
 
 Person-to-group example from example files (persons are circles, groups are squares, each of which are organized by 'type').
 
-![Person-to-group example.](person-to-group-example.png)
+![Person-to-group example.](images/person-to-group-example.png)
 
 Person-to-person example from example files.
 
-![Person-to-person example.](person-to-person-example.png)
+![Person-to-person example.](images/person-to-person-example.png)
