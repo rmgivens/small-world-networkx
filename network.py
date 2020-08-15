@@ -8,11 +8,11 @@
 # the binary person-to-person network as a matrix (list of lists);
 # the largest component as a Network;
 # the proportion of persons and groups in the largest component;
-# the mean co-enrollments; gettings the mean unique co-enrollments;
-# the number of unique edges (connections / links) between persons;
-# and the (bin) person-to-person network density, average clustering 
-# coefficient, characteristic path length, network diameter, and
-# k-step reach; and == (for testing).
+# and for the binary person-to-person network: mean co-enrollments,
+# mean unique co-enrollments, # the number of unique edges (connections/links) 
+# between persons, network density, average clustering coefficient,
+# characteristic path length, and network diameter.
+# Provides == for testing.
 
 # Also provides a method to print all the analysis for the methods
 # described above and methods to get the person-to-group and person-to-person
