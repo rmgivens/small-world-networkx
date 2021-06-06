@@ -24,3 +24,7 @@ Person-to-group example from example files (persons are circles, groups are squa
 Person-to-person example from example files.
 
 ![Person-to-person example.](images/person-to-person-example.png)
+
+## Results
+
+The results of this work are now published in the Proceedings of the 2020 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM). [Link](https://ieeexplore.ieee.org/abstract/document/9381382)
